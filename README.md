@@ -20,7 +20,7 @@ Enlistaremos los materiales que se necesitan para realizar el proyecto, pero pue
 - **Necesitarás una fuente de poder de 5 volts a 1 Amper (esto dependerá de la cantidad de neopixels que uses, en este proyecto es indispensable para suministrar la corriente demandada por el número de neopixels. Por ningún motivo suministres la corriente directamente con Arduino).**
 
 ### Código
-**[Aqui](https://github.com/proyectoTEOS/Vumetro-con-Arduino-con-Arduino/blob/master/Vumetro-con-Arduino-con-Arduino.ino)** podrás obtener el link del código, esta comentado de tal forma que puedas entender su estructura y función.
+**[Aqui](https://github.com/proyectoTEOS/Vumetro-con-Arduino/blob/master/Vumetro-con-Arduino.ino)** podrás obtener el link del código, esta comentado de tal forma que puedas entender su estructura y función.
 
 ### Diagrama
 El siguiente esquemático muestra como se debe conectar todos los componentes con la placa.
